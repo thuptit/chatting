@@ -1,0 +1,40 @@
+{
+  "users": {
+    "7Q8UI9cf3BcaXM6SeF21HZBgPyh1": {
+      "name": "thu",
+      "email": "thu@gmail.com",
+      "online": true
+    },
+    "HiTeR0nQULbfyS183RGtKmOaUcq2": {
+      "name": "admin",
+      "email": "admin@gmai.com",
+      "online": true
+    }
+  },
+  "chats": {
+    "7Q8UI9cf3BcaXM6SeF21HZBgPyh1": {
+      "HiTeR0nQULbfyS183RGtKmOaUcq2": {
+        "MESSAGEID1": {
+          "text": "Hi, how are you?",
+          "from": "then"
+        },
+        "MESSAGEID2": {
+          "text": "Good thanks, how are you?",
+          "from": "me"
+        }
+      }
+    },
+    "HiTeR0nQULbfyS183RGtKmOaUcq2": {
+      "7Q8UI9cf3BcaXM6SeF21HZBgPyh1": {
+        "MESSAGEID1": {
+          "text": "Hi, how are you?",
+          "from": "me"
+        },
+        "MESSAGEID2": {
+          "text": "Good thanks, how are you?",
+          "from": "then"
+        }
+      }
+    }
+  }
+}
